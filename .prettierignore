@@ -1,0 +1,12 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.data
+.env
+dist
+db.sqlite
+.wrangler
+pnpm-lock.yaml
