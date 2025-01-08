@@ -1,10 +1,10 @@
 <template>
-    <div class="min-h-full dark:bg-neutral-950 bg-neutral-100 min-w-[250px] border-r border-neutral-200 dark:border-neutral-800">
+    <div class="min-h-full dark:bg-neutral-900 bg-neutral-200 min-w-[250px] border-r border-neutral-200 dark:border-neutral-950">
         
         <div class="h-dvh flex flex-col gap-3 w-full py-3 sticky top-0">
             <div class="flex items-center gap-3 px-3">
 
-                <p class="font-medium text-primary-400 text-lg">Title</p>
+                <p class="font-medium text-white-400 text-lg">Title</p>
 
                 <UButton
                     v-if="mobile"

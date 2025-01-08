@@ -11,7 +11,7 @@
 			</template>
 		</USlideover>
 
-		<div class="w-full min-h-full bg-neutral-400 dark:bg-neutral-800 overflow-y-auto">
+		<div class="w-full min-h-full bg-neutral-50 dark:bg-neutral-950 overflow-y-auto">
 			<slot></slot>
 		</div>
 	</div>
