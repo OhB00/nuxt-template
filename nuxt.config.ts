@@ -3,7 +3,6 @@ export default defineNuxtConfig({
     '@nuxthub/core',
     '@nuxt/eslint',
     '@nuxt/ui',
-    '@nuxt/image',
     'nuxt-auth-utils',
     '@vueuse/nuxt'
   ],
