@@ -9,7 +9,6 @@
                 :schema="LoginSchema"
                 class="w-full max-w-[600px]"
                 v-model="state"
-                v-slot="{ save }"
                 @submit="onSubmit"
             >
                 <UContainer class="flex flex-col gap-5">
@@ -24,6 +23,7 @@
                     
                     
                     <UButton 
+                        type="submit"
                         class="self-center"
                         icon="i-lucide-arrow-right" 
                         color="primary" 
@@ -31,7 +31,7 @@
                         variant="soft"
                         :loading
                         loading-icon="i-lucide-loader-circle"
-                        @click="save()"
+
                     />
                 </UContainer>
                 
