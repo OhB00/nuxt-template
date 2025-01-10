@@ -2,41 +2,17 @@
 @import "@nuxt/ui";
 
 @theme {
-  --color-everglade-50: #f1f8f3;
-  --color-everglade-100: #dcefdf;
-  --color-everglade-200: #bcdec4;
-  --color-everglade-300: #8fc6a0;
-  --color-everglade-400: #5fa877;
-  --color-everglade-500: #3e8b5b;
-  --color-everglade-600: #2c6f46;
-  --color-everglade-700: #23593a;
-  --color-everglade-800: #214e34;
-  --color-everglade-900: #193b28;
-  --color-everglade-950: #0d2116;
-
-  --color-east-bay-50: #f4f6fa;
-  --color-east-bay-100: #e6e9f3;
-  --color-east-bay-200: #d2d8eb;
-  --color-east-bay-300: #b3bfdd;
-  --color-east-bay-400: #8f9ecb;
-  --color-east-bay-500: #7481bd;
-  --color-east-bay-600: #6169af;
-  --color-east-bay-700: #565a9f;
-  --color-east-bay-800: #4f518c;
-  --color-east-bay-900: #3f4269;
-  --color-east-bay-950: #292a42;
-
-  --color-conch-50: #f3f6f4;
-  --color-conch-100: #e1eae3;
-  --color-conch-200: #ccdad1;
-  --color-conch-300: #9eb7a8;
-  --color-conch-400: #739482;
-  --color-conch-500: #537664;
-  --color-conch-600: #3e5d4d;
-  --color-conch-700: #324a3f;
-  --color-conch-800: #293c34;
-  --color-conch-900: #22322b;
-  --color-conch-950: #131b18;
+  --color-crusta-50: #fff5ed;
+  --color-crusta-100: #ffe8d4;
+  --color-crusta-200: #ffcca8;
+  --color-crusta-300: #ffa871;
+  --color-crusta-400: #ff7837;
+  --color-crusta-500: #fe5411;
+  --color-crusta-600: #ef3a07;
+  --color-crusta-700: #c62708;
+  --color-crusta-800: #9d210f;
+  --color-crusta-900: #7e1e10;
+  --color-crusta-950: #440b06;
 
   --color-primary-50: var(--ui-color-primary-50);
   --color-primary-100: var(--ui-color-primary-100);

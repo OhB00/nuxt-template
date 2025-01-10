@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-full dark:bg-neutral-900 bg-neutral-200 min-w-[250px] border-r border-neutral-200 dark:border-neutral-950">
+    <div class="min-h-full dark:bg-neutral-900 bg-neutral-100 min-w-[250px] shadow-md border-r border-neutral-200 dark:border-neutral-800">
         
         <div class="h-dvh flex flex-col gap-3 w-full py-3 sticky top-0">
             <div class="flex items-center gap-3 px-3">

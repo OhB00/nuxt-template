@@ -11,7 +11,7 @@
           color="primary"
           @click="open = !open" 
         />
-        <h1 class="text-xl font-medium">{{ area }}</h1>
+        <h1 class="text-2xl font-medium">{{ area }}</h1>
       </div>
         
       <div class="ml-auto flex flex-col md:flex-row md:items-center gap-3">
